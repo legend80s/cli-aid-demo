@@ -1,0 +1,26 @@
+{
+  "name": "cli-aid-demo",
+  "version": "1.0.0",
+  "description": "cli-aid-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legend80s/cli-aid-demo.git"
+  },
+  "dependencies": {
+    "cli-aid": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legend80s/cli-aid-demo/issues"
+  },
+  "homepage": "https://github.com/legend80s/cli-aid-demo#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
+}
